@@ -31,13 +31,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Using Jupyter & Python, the report is a culmination of data retrieved from past contributors of the project. Their codes were then modified to fit into two distinct reports within one Jupyter notebook. The topics were: 1) An analysis of Australia's National conversation based on news headlines over the past decades and 2) Mental Health based on location/occupation.   
+Using Jupyter & Python, the report is a culmination of modified codes from past contributors of the project. Their codes were changed to fit into two distinct reports within one Jupyter notebook. The topics were: 1) An analysis of Australia's National conversation based on news headlines over the past decades and 2) Mental Health based on location/occupation.   
 
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Jupyter Notebook](https://jupyter.org/try)
 * [Python](https://www.python.org/)
+* [CSV](https://github.com/michaelravina/Data-Analytics-Report/upload)
 
 
 
@@ -83,6 +84,29 @@ Snapshots of the report:
 
 2.3 After further breakdown the data into frequency based on ages and location, we have come into conclusion that those between the ages of 35-54 are the most vulnerable to mental health issues. 
 
+<p align="center"> 
+  <h3 align="center">Report #3:Mental Health within the IT industry</h3>
+  
+3.1 What could be the possible predictors of Mental Health issues within the IT industry and the common attitudes towards it?
+
+<p align="center">
+<img src = "images1/SS9.png" width = "450" height = "500">
+</p>
+
+3.2 Pie chart distrubtion of where employees work. 
+
+<p align="center">
+<img src = "images1/SS10.png" width = "600" height = "500">
+</p>
+
+3.3 It was found that males where less likely to bring up mental health issues to their employers. 
+
+<p align="center">
+<img src = "images1/SS11.png" width = "600" height = "500">
+</p>
+
+3.4 Key findings from the report.
+
 <!-- CONTACT -->
 ## Contact
 
@@ -96,5 +120,6 @@ Linkedin: [linkedin-url]: https://www.linkedin.com/in/mike-ravina-1368a11a8/
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* QUT staff and Dr. Arash for holding my hand (metaphorically) throughout the project
-* To the github community for providing me this awesome readme template
+* QUT staff and Dr. Catriona for their guidance throughtout the project
+* To the past contributors of the project and their dedication
+* To the youtube and stack overflow community for their many python tutorials :)
