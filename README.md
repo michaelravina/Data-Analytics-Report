@@ -3,7 +3,7 @@
 <p align="center"> 
   <h3 align="center">Data Analytics Report Overview</h3>
   <p align="center">
-    Download the PDF and Word versions here: 
+    Download the full report here: 
     <br />
     <a href="https://github.com/michaelravina/Data-Analytics-Report/tree/main/Report%20in%20PDF%20%26%20Word%20file"><strong>Explore the docs</strong></a>
     <br />
