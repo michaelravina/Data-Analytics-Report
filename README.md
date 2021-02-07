@@ -46,21 +46,19 @@ This section should list any major frameworks that you built your project using.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Snapshots of the report:
 
-![](Images1/SS%201.png)
+1. National conversation is a crucial aspect for nation building. However, there is a lack of data to which topics merit debate. Today, we look into news topics from the past decades and decipher how it possibly contributes to the national convesation. 
 
-1. Initial Page where client inputs their names. 
+<img src = "images1/SS.2.png" width = "600" height = "300">
 
-![](Images/2nd%20SS.png)
+2. A bar chart of the amount of news headlines over the past decade.  
 
-2. A display table with trimmed names is shown as a summary of the input data.
-
-![](Images/3rd%20SS.png)
+![](Images1/SS3.png)
 
 3.The final output wherein the names are trimmed together with all the seat & gate numbers, security code, date & time, etc.
 
-
+<img src = "images1/SS1.png" width = "550" height = "250">
 
 
 
