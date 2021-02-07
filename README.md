@@ -50,15 +50,17 @@ Snapshots of the report:
 
 1. National conversation is a crucial aspect for nation building. However, there is a lack of data to which topics merit debate. Today, we look into news topics from the past decades and decipher how it possibly contributes to the national convesation. 
 
+<p align="center">
 <img src = "images1/SS.2.png" width = "600" height = "300">
+</p>
 
 2. A bar chart of the amount of news headlines over the past decade.  
 
-![](Images1/SS3.png)
+<p align="center">
+<img src = "images1/SS3.png" width = "800" height = "800">
+</p>
 
-3.The final output wherein the names are trimmed together with all the seat & gate numbers, security code, date & time, etc.
-
-<img src = "images1/SS1.png" width = "550" height = "250">
+3.After assigning keyword values to the national headline topics using ReGex, we created a linechart to compare the different topics over time. Keypoints were also addressed for the study.
 
 
 
