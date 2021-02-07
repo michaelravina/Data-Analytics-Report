@@ -48,7 +48,7 @@ This section should list any major frameworks that you built your project using.
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-![](Images1/SS1.png)
+![](Images1/SS%201.png)
 
 1. Initial Page where client inputs their names. 
 
