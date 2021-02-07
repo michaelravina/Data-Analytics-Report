@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Using Jupyter & Python, the report is a culmination of modified codes from past contributors of the project. Their codes were changed to fit into two distinct reports within one Jupyter notebook. The topics were: 1) An analysis of Australia's National conversation based on news headlines over the past decades and 2) Mental Health based on location/occupation.   
+Using Jupyter & Python, the report is a culmination of modified codes from past contributors of the project. The topics were: 1) An analysis of Australia's National conversation based on news headlines over the past decades and 2) Mental Health based on location/occupation.   
 
 ### Built With
 
