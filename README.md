@@ -96,7 +96,7 @@ Snapshots of the report:
 3.2 Pie chart distrubtion of where employees work. 
 
 <p align="center">
-<img src = "images1/SS10.png" width = "600" height = "500">
+<img src = "images1/SS10.png" width = "800" height = "450">
 </p>
 
 3.3 It was found that males where less likely to bring up mental health issues to their employers. 
