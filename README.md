@@ -52,55 +52,62 @@ Snapshots of the report:
 
 1.1 National conversation is a crucial aspect for nation building. However, there is a lack of data to which topics merit debate. Today, we look into news topics from the past decades and decipher how it possibly contributes to the national convesation. 
 
+<br />
 <p align="center">
 <img src = "images1/SS.2.png" width = "600" height = "300">
 </p>
 
 1.2 A bar chart of the amount of news headlines over the past decade.  
 
+<br />
 <p align="center">
 <img src = "images1/SS3.png" width = "800" height = "800">
 </p>
 
 1.3 After assigning keyword values to the national headline topics using ReGex, we created a linechart to compare the different topics over time. Keypoints were also addressed for the study.
 
+<br />
 <p align="center"> 
   <h3 align="center">Report #2: Mental Health illnesses by country and age</h3>
 
 
 2.1 According to the WHO, mental health is about the state of a person's wellness rather than an illness. There is no official international "guideline" on how to tackle mental health issues and each country addresses its own problems uniquely. We look into the mental health illness distribution by country and age.
 
+<br />
 <p align="center">
 <img src = "images1/SS6.png" width = "600" height = "300">
 </p>
 
-
 2.2 From the graph we could see that the USA was leading in terms of mental ilnesses over other industrialized countries. 
 
-
+<br />
 <p align="center">
 <img src = "images1/SS7.png" width = "800" height = "800">
 </p>
 
 2.3 After further breakdown the data into frequency based on ages and location, we have come into conclusion that those between the ages of 35-54 are the most vulnerable to mental health issues. 
 
+<br />
 <p align="center"> 
   <h3 align="center">Report #3:Mental Health within the IT industry</h3>
   
 3.1 What could be the possible predictors of Mental Health issues within the IT industry and the common attitudes towards it?
 
+<br />
 <p align="center">
 <img src = "images1/SS9.png" width = "450" height = "500">
 </p>
 
 3.2 Pie chart distrubtion of where employees work. 
 
+<br />
 <p align="center">
 <img src = "images1/SS10.png" width = "800" height = "450">
 </p>
 
 3.3 It was found that males where less likely to bring up mental health issues to their employers. 
 
+<br />
 <p align="center">
 <img src = "images1/SS11.png" width = "600" height = "500">
 </p>
